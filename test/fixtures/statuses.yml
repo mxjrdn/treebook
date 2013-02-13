@@ -2,6 +2,8 @@
 
 one:
   content: MyText
+  user: max
 
 two:
   content: MyText
+  user: max
